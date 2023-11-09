@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I can help with single-particle cryoEM data analysis
 - 🤔 I’m looking for help with too many things to list 😂
 - 💬 Ask me about proteins, I guess
-- 📫 How to reach me: 🐘 @Guillawme@fediscience.org
+- 📫 How to reach me: 🐘 [@Guillawme@fediscience.org](https://fediscience.org/@Guillawme)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: bacteria are cool!
